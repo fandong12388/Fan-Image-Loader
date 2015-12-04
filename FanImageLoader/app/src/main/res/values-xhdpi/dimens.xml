@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="recycler_item_margin">8dp</dimen>
-    <dimen name="recycler_item_padding">4dp</dimen>
-</resources>
