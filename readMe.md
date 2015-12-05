@@ -164,3 +164,5 @@ L.writeDebugLogs(DebugUtil.isDebug());
                 .setDisplayType(FanImageLoader.DISPLAY_CIRCLE_BLUR)
                 .into(mIv14);
 ```
+<br/>
+欢迎技术交流，详见[我的博客](http://blog.csdn.net/fandong12388 "技术交流")
