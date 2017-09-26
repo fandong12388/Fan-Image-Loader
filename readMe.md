@@ -1,5 +1,6 @@
 ### Fan-Image-Loader ###
 ![](https://github.com/pinguo-fandong/Fan-Image-Loader/raw/master/screenshot/7.gif)
+
 致敬universal-image-loader的作者和glide的作者
 
 *此框架基于universal-image-loader源码,做了更深层次的封装和修改，相对于原来的封装，使用更简单，样式更丰富，
